@@ -1,0 +1,15 @@
+name: snow
+channels:
+- conda-forge
+- defaults
+dependencies:
+- altair
+- bokeh
+- pandas
+- geopandas
+- jupyter
+- shapely
+- matplotlib
+- requests
+
+
